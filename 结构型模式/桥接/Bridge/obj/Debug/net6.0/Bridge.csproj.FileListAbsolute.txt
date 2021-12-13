@@ -1,0 +1,15 @@
+D:\设计模式\结构型模式\桥接\Bridge\bin\Debug\net6.0\Bridge.exe
+D:\设计模式\结构型模式\桥接\Bridge\bin\Debug\net6.0\Bridge.deps.json
+D:\设计模式\结构型模式\桥接\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+D:\设计模式\结构型模式\桥接\Bridge\bin\Debug\net6.0\Bridge.dll
+D:\设计模式\结构型模式\桥接\Bridge\bin\Debug\net6.0\ref\Bridge.dll
+D:\设计模式\结构型模式\桥接\Bridge\bin\Debug\net6.0\Bridge.pdb
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.dll
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\ref\Bridge.dll
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.pdb
+D:\设计模式\结构型模式\桥接\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\设计模式\生成器\generator\bin\Debug\net6.0\generator.exe
+D:\设计模式\生成器\generator\bin\Debug\net6.0\generator.deps.json
+D:\设计模式\生成器\generator\bin\Debug\net6.0\generator.runtimeconfig.json
+D:\设计模式\生成器\generator\bin\Debug\net6.0\generator.dll
+D:\设计模式\生成器\generator\bin\Debug\net6.0\ref\generator.dll
+D:\设计模式\生成器\generator\bin\Debug\net6.0\generator.pdb
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.csproj.AssemblyReference.cache
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.AssemblyInfoInputs.cache
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.AssemblyInfo.cs
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.csproj.CoreCompileInputs.cache
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.dll
+D:\设计模式\生成器\generator\obj\Debug\net6.0\ref\generator.dll
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.pdb
+D:\设计模式\生成器\generator\obj\Debug\net6.0\generator.genruntimeconfig.cache

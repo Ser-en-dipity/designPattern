@@ -1,0 +1,15 @@
+D:\设计模式\行为模式\观察者\Obeservers\bin\Debug\net6.0\Obeservers.exe
+D:\设计模式\行为模式\观察者\Obeservers\bin\Debug\net6.0\Obeservers.deps.json
+D:\设计模式\行为模式\观察者\Obeservers\bin\Debug\net6.0\Obeservers.runtimeconfig.json
+D:\设计模式\行为模式\观察者\Obeservers\bin\Debug\net6.0\Obeservers.dll
+D:\设计模式\行为模式\观察者\Obeservers\bin\Debug\net6.0\ref\Obeservers.dll
+D:\设计模式\行为模式\观察者\Obeservers\bin\Debug\net6.0\Obeservers.pdb
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.csproj.AssemblyReference.cache
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.AssemblyInfoInputs.cache
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.AssemblyInfo.cs
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.csproj.CoreCompileInputs.cache
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.dll
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\ref\Obeservers.dll
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.pdb
+D:\设计模式\行为模式\观察者\Obeservers\obj\Debug\net6.0\Obeservers.genruntimeconfig.cache

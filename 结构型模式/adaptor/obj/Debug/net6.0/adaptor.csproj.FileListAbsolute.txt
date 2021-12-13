@@ -1,0 +1,15 @@
+D:\设计模式\结构型模式\adaptor\bin\Debug\net6.0\adaptor.exe
+D:\设计模式\结构型模式\adaptor\bin\Debug\net6.0\adaptor.deps.json
+D:\设计模式\结构型模式\adaptor\bin\Debug\net6.0\adaptor.runtimeconfig.json
+D:\设计模式\结构型模式\adaptor\bin\Debug\net6.0\adaptor.dll
+D:\设计模式\结构型模式\adaptor\bin\Debug\net6.0\ref\adaptor.dll
+D:\设计模式\结构型模式\adaptor\bin\Debug\net6.0\adaptor.pdb
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.csproj.AssemblyReference.cache
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.AssemblyInfoInputs.cache
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.AssemblyInfo.cs
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.csproj.CoreCompileInputs.cache
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.dll
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\ref\adaptor.dll
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.pdb
+D:\设计模式\结构型模式\adaptor\obj\Debug\net6.0\adaptor.genruntimeconfig.cache

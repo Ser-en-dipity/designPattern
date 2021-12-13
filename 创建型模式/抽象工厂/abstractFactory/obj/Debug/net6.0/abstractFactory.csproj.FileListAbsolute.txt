@@ -1,0 +1,15 @@
+D:\设计模式\抽象工厂\abstractFactory\bin\Debug\net6.0\abstractFactory.exe
+D:\设计模式\抽象工厂\abstractFactory\bin\Debug\net6.0\abstractFactory.deps.json
+D:\设计模式\抽象工厂\abstractFactory\bin\Debug\net6.0\abstractFactory.runtimeconfig.json
+D:\设计模式\抽象工厂\abstractFactory\bin\Debug\net6.0\abstractFactory.dll
+D:\设计模式\抽象工厂\abstractFactory\bin\Debug\net6.0\ref\abstractFactory.dll
+D:\设计模式\抽象工厂\abstractFactory\bin\Debug\net6.0\abstractFactory.pdb
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.csproj.AssemblyReference.cache
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.AssemblyInfoInputs.cache
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.AssemblyInfo.cs
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.csproj.CoreCompileInputs.cache
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.dll
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\ref\abstractFactory.dll
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.pdb
+D:\设计模式\抽象工厂\abstractFactory\obj\Debug\net6.0\abstractFactory.genruntimeconfig.cache

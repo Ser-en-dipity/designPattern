@@ -1,0 +1,15 @@
+D:\设计模式\行为模式\状态\State\bin\Debug\net6.0\State.exe
+D:\设计模式\行为模式\状态\State\bin\Debug\net6.0\State.deps.json
+D:\设计模式\行为模式\状态\State\bin\Debug\net6.0\State.runtimeconfig.json
+D:\设计模式\行为模式\状态\State\bin\Debug\net6.0\State.dll
+D:\设计模式\行为模式\状态\State\bin\Debug\net6.0\ref\State.dll
+D:\设计模式\行为模式\状态\State\bin\Debug\net6.0\State.pdb
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.csproj.AssemblyReference.cache
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.dll
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\ref\State.dll
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.pdb
+D:\设计模式\行为模式\状态\State\obj\Debug\net6.0\State.genruntimeconfig.cache

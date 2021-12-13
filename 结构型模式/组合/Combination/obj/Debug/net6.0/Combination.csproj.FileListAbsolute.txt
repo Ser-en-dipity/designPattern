@@ -1,0 +1,15 @@
+D:\设计模式\结构型模式\组合\Combination\bin\Debug\net6.0\Combination.exe
+D:\设计模式\结构型模式\组合\Combination\bin\Debug\net6.0\Combination.deps.json
+D:\设计模式\结构型模式\组合\Combination\bin\Debug\net6.0\Combination.runtimeconfig.json
+D:\设计模式\结构型模式\组合\Combination\bin\Debug\net6.0\Combination.dll
+D:\设计模式\结构型模式\组合\Combination\bin\Debug\net6.0\ref\Combination.dll
+D:\设计模式\结构型模式\组合\Combination\bin\Debug\net6.0\Combination.pdb
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.csproj.AssemblyReference.cache
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.AssemblyInfoInputs.cache
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.AssemblyInfo.cs
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.csproj.CoreCompileInputs.cache
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.dll
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\ref\Combination.dll
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.pdb
+D:\设计模式\结构型模式\组合\Combination\obj\Debug\net6.0\Combination.genruntimeconfig.cache

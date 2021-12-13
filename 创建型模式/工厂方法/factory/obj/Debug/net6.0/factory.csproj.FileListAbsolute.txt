@@ -1,0 +1,15 @@
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.csproj.AssemblyReference.cache
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.AssemblyInfoInputs.cache
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.AssemblyInfo.cs
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.csproj.CoreCompileInputs.cache
+D:\设计模式\工厂方法\factory\bin\Debug\net6.0\factory.exe
+D:\设计模式\工厂方法\factory\bin\Debug\net6.0\factory.deps.json
+D:\设计模式\工厂方法\factory\bin\Debug\net6.0\factory.runtimeconfig.json
+D:\设计模式\工厂方法\factory\bin\Debug\net6.0\factory.dll
+D:\设计模式\工厂方法\factory\bin\Debug\net6.0\ref\factory.dll
+D:\设计模式\工厂方法\factory\bin\Debug\net6.0\factory.pdb
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.dll
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\ref\factory.dll
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.pdb
+D:\设计模式\工厂方法\factory\obj\Debug\net6.0\factory.genruntimeconfig.cache

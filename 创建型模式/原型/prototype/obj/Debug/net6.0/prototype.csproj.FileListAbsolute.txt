@@ -1,0 +1,15 @@
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.csproj.AssemblyReference.cache
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.AssemblyInfoInputs.cache
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.AssemblyInfo.cs
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.csproj.CoreCompileInputs.cache
+D:\设计模式\原型\prototype\bin\Debug\net6.0\prototype.exe
+D:\设计模式\原型\prototype\bin\Debug\net6.0\prototype.deps.json
+D:\设计模式\原型\prototype\bin\Debug\net6.0\prototype.runtimeconfig.json
+D:\设计模式\原型\prototype\bin\Debug\net6.0\prototype.dll
+D:\设计模式\原型\prototype\bin\Debug\net6.0\ref\prototype.dll
+D:\设计模式\原型\prototype\bin\Debug\net6.0\prototype.pdb
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.dll
+D:\设计模式\原型\prototype\obj\Debug\net6.0\ref\prototype.dll
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.pdb
+D:\设计模式\原型\prototype\obj\Debug\net6.0\prototype.genruntimeconfig.cache

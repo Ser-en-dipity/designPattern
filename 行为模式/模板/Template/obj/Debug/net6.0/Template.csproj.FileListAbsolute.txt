@@ -1,0 +1,15 @@
+D:\设计模式\行为模式\模板\Template\bin\Debug\net6.0\Template.exe
+D:\设计模式\行为模式\模板\Template\bin\Debug\net6.0\Template.deps.json
+D:\设计模式\行为模式\模板\Template\bin\Debug\net6.0\Template.runtimeconfig.json
+D:\设计模式\行为模式\模板\Template\bin\Debug\net6.0\Template.dll
+D:\设计模式\行为模式\模板\Template\bin\Debug\net6.0\ref\Template.dll
+D:\设计模式\行为模式\模板\Template\bin\Debug\net6.0\Template.pdb
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.csproj.AssemblyReference.cache
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.AssemblyInfoInputs.cache
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.AssemblyInfo.cs
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.csproj.CoreCompileInputs.cache
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.dll
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\ref\Template.dll
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.pdb
+D:\设计模式\行为模式\模板\Template\obj\Debug\net6.0\Template.genruntimeconfig.cache

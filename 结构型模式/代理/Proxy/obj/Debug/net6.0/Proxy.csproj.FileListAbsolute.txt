@@ -1,0 +1,15 @@
+D:\设计模式\结构型模式\代理\Proxy\bin\Debug\net6.0\Proxy.exe
+D:\设计模式\结构型模式\代理\Proxy\bin\Debug\net6.0\Proxy.deps.json
+D:\设计模式\结构型模式\代理\Proxy\bin\Debug\net6.0\Proxy.runtimeconfig.json
+D:\设计模式\结构型模式\代理\Proxy\bin\Debug\net6.0\Proxy.dll
+D:\设计模式\结构型模式\代理\Proxy\bin\Debug\net6.0\ref\Proxy.dll
+D:\设计模式\结构型模式\代理\Proxy\bin\Debug\net6.0\Proxy.pdb
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.csproj.AssemblyReference.cache
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfoInputs.cache
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfo.cs
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.csproj.CoreCompileInputs.cache
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.dll
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\ref\Proxy.dll
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.pdb
+D:\设计模式\结构型模式\代理\Proxy\obj\Debug\net6.0\Proxy.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\设计模式\结构型模式\外观\Facade\bin\Debug\net6.0\Facade.exe
+D:\设计模式\结构型模式\外观\Facade\bin\Debug\net6.0\Facade.deps.json
+D:\设计模式\结构型模式\外观\Facade\bin\Debug\net6.0\Facade.runtimeconfig.json
+D:\设计模式\结构型模式\外观\Facade\bin\Debug\net6.0\Facade.dll
+D:\设计模式\结构型模式\外观\Facade\bin\Debug\net6.0\ref\Facade.dll
+D:\设计模式\结构型模式\外观\Facade\bin\Debug\net6.0\Facade.pdb
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.csproj.AssemblyReference.cache
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.dll
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\ref\Facade.dll
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.pdb
+D:\设计模式\结构型模式\外观\Facade\obj\Debug\net6.0\Facade.genruntimeconfig.cache
